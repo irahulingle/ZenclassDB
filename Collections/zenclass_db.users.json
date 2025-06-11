@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6844472b6c623612fac73bf8"
+  },
+  "user_id": 1,
+  "user_name": "Rahul",
+  "email_id": "rahul1@gamil.com",
+  "batch_id": 59,
+  "codekata_solved": [
+    1,
+    5,
+    4
+  ]
+},
+{
+  "_id": {
+    "$oid": "6844472b6c623612fac73bf9"
+  },
+  "user_id": 3,
+  "user_name": "Vijaya",
+  "email_id": "viju07@gamil.com",
+  "batch_id": 59,
+  "codekata_solved": [
+    2,
+    6,
+    8
+  ]
+},
+{
+  "_id": {
+    "$oid": "6844472b6c623612fac73bfa"
+  },
+  "user_id": 4,
+  "user_name": "Chetan",
+  "email_id": "chetan99@gamil.com",
+  "batch_id": 89,
+  "codekata_solved": [
+    4,
+    8,
+    15
+  ]
+},
+{
+  "_id": {
+    "$oid": "6844472b6c623612fac73bfb"
+  },
+  "user_id": 5,
+  "user_name": "Mukesh",
+  "email_id": "mukesh51@gamil.com",
+  "batch_id": 84,
+  "codekata_solved": [
+    6,
+    8,
+    9
+  ]
+}]

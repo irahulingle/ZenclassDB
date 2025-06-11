@@ -1,0 +1,15 @@
+{
+  "name": "zenclass",
+  "version": "1.0.0",
+  "description": "MongoDB project for Zen Class Programme",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "seed": "node seed.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.15.0"
+  }
+}

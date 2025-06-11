@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "684449196c623612fac73c14"
+  },
+  "prob_id": 1,
+  "catagory_name": "Input/Output",
+  "description": "Write a code to get the input in the given format and print i in the given format."
+},
+{
+  "_id": {
+    "$oid": "684449196c623612fac73c15"
+  },
+  "prob_id": 2,
+  "catagory_name": "Absolute Beginner",
+  "description": "Write a code to get an integer N and print the even values from 1 to N in a separate line."
+},
+{
+  "_id": {
+    "$oid": "684449196c623612fac73c16"
+  },
+  "prob_id": 3,
+  "catagory_name": "Looping",
+  "description": "Write a code to get an integer N and print the sum of values from 1 to N."
+},
+{
+  "_id": {
+    "$oid": "684449196c623612fac73c17"
+  },
+  "prob_id": 4,
+  "catagory_name": "Absolute Beginner",
+  "description": "Write a code to get an integer as input and print the sum of the digits."
+},
+{
+  "_id": {
+    "$oid": "684449196c623612fac73c18"
+  },
+  "prob_id": 5,
+  "catagory_name": "Array",
+  "description": "Given tow numbers N and K followed by elements of N. Print 'Yes' if K exists else print 'No'."
+}]
