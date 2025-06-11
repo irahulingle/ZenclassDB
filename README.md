@@ -2,13 +2,6 @@
 
 Welcome to the **Zen Class Program Management**! This is a MongoDB-based system designed to streamline the management of users, tasks, attendance, company drives, and mentor-student relationships within the Zen Class program.
 
-## Table of Contents
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Usage](#usage)
-- [Database Schema](#database-schema)
-- [Built With](#built-with)
-
 ## About the Project
 The **Zen Class Program Management** project is a vital component of the Zen Class program. It focuses on creating a comprehensive MongoDB database that manages student data, tracks codekata progress, and organizes company drives for placements. This system facilitates the monitoring of attendance, task submissions, and mentor-mentee interactions, ensuring a seamless experience for both students and educators.
 
