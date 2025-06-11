@@ -27,27 +27,3 @@ To get started with the Zen Class Program Management system, follow these steps:
    ```javascript
    db.users.find({ /* your query here */ })
    ```
-
-## Database Schema
-The MongoDB database comprises the following collections:
-
-### Users
-- **user_id**: (ObjectId)
-- **name**: (String)
-- **email**: (String)
-- **batch**: (String)
-- **attendance**: (Array of Objects)
-- **tasks_submitted**: (Array of Objects)
-
-### Company Drives
-- **drive_id**: (ObjectId)
-- **company_name**: (String)
-- **date**: (ISODate)
-- **students_appeared**: (Array of Objects)
-
-### Mentors
-- **mentor_id**: (ObjectId)
-- **mentor_name**: (String)
-- **mentees**: (Array of User IDs)
-
-
